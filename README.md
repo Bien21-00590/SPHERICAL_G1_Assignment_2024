@@ -6,7 +6,7 @@ PL  : Perilla, Aira A.
 
 PE  :
 
-PS  :
+PS  : Arnante, Juan Bienvinido P.
 
 PQ  : Almonte, Ray Ivan C.
 
