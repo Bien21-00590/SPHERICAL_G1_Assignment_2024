@@ -17,7 +17,6 @@ Spherical Kinematic Diagram and Parametric Table
 ![IMG_3026](https://github.com/Bien21-00590/SPHERICAL_G1_Assignment_2024/assets/157706256/e0568b36-db0b-4844-92c8-a6210fdc31c3)
  
 SCARA Kinematic Diagram and Parametric Table
-#Insert Parametric Table SCARA
 ![IMG_3027](https://github.com/Bien21-00590/SPHERICAL_G1_Assignment_2024/assets/157706256/65825d23-d8fc-48f6-864b-1e7421c8e739)
 
 Cartesian Kinematic Diagram and Parametric Table
