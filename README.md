@@ -1,10 +1,15 @@
 Group#1_ Spherical
 
 Members:
+
 PL  : Perilla, Aira A.
+
 PE  :
+
 PS  :
+
 PQ  : Almonte, Ray Ivan C.
+
 PR  :
 
 
