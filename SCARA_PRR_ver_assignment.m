@@ -25,6 +25,12 @@ H2_3.qlim = pi/180*[-90,90]
 
 %%
 
+
+Spherical_RRP = SerialLink([H0_1 H1_2 H2_3], 'name', 'Spherical_RRP')
+Spherical_RRP.plot([0 0 0], 'workspace', [-20 20 -20 20 -5 20])
+Spherical_RRP.teach
+
 Scara_PRR = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_PRR')
 Scara_PRR.plot([0 0 0], 'workspace', [-20 20 -20 20 -5 20])
 Scara_PRR.teach
+
